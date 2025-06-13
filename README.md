@@ -16,7 +16,7 @@ Haotian Hu<sup>1</sup>, Jingwei Xu<sup>1</sup>, Fanyi Wang<sup>2</sup>, Toyata L
 </div>
 
 <div align="center">
-<img src=".arch.png">
+<img src="arch.png">
 </div>
 
 ## 📋 News
